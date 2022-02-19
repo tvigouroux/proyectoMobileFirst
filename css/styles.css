@@ -141,9 +141,6 @@ main {
     line-height: 1.6rem;
     color: #757575;
 }
-.main-tables-container {
-    
-}
 .main-currency-table, .main-fees-table {
     width: 70%;
     min-width: 235px;
